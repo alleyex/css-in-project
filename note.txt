@@ -1,0 +1,20 @@
+1. CSS Tools: Reset CSS
+   https://meyerweb.com/eric/tools/css/reset/
+
+2. Google font Lato
+   https://fonts.google.com/specimen/Lato?selection.family=Lato
+
+3. Landing Page Design  
+   landing.html
+   HTML5, CSS3, Web Forms, Lists, Reset Files, Responsive Web Design
+
+4. Responsive Tableless Calendar
+   calendar.html
+   HTML5, CSS3, Lists, Responsive Web Design, Table-like layout using CSS only, Box Spacing, Padding & Margins
+
+5. keyframes 
+   keyframes.html
+
+6. Pure CSS Image Slider
+   slider.html
+
